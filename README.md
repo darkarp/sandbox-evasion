@@ -25,6 +25,7 @@
 * [About the Project](#about-the-project)
 * [Learning resources](#learning-resources)
     * [CPUID](#cpuid)
+    * [SYSTEM_INFO](#system_info)
 * [Learn More](#learn-more)
 ---
 ## About The project
